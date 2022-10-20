@@ -70,7 +70,7 @@ email: ''
 highlight_name: true
 ---
 
-Hyejung Lee is a Ph.D. student of Population Health Sciences with Biostatistics emphasis at the University of Utah. Her research interests are precision medicine, dynamic treatment regimes, and causal inference. Her dissertation topics are:
+I'm a Ph.D. student of Population Health Sciences with Biostatistics emphasis at the University of Utah. Her research interests are precision medicine, dynamic treatment regimes, and causal inference. Her dissertation topics are:
 1. Generating decision rule for treatment initiation without genetic testing for patients with advanced or metastatic non-small cell lung cancer,
 2. Developing optimal individual treatment rules for first- and second-line treatments for patients with advanced or metastatic non-small cell lung cancer, and
 3. Landcaping proteoms across different stages of metatstic prostate cancer. 
